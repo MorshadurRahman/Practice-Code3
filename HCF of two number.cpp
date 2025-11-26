@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main()
 {
     int a, b;
@@ -16,4 +15,5 @@ int main()
     cout<<"HCF = "<<a;
     return 0;
 }
+
 
